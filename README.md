@@ -1,2 +1,2 @@
 # ReGraphT
-ICLR2026 ReGraphT
+From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph
